@@ -1,4 +1,4 @@
-# Result (coming soon)
+# Result (Launching it soon - 2025)
 ## Login Page
 ![image](https://github.com/user-attachments/assets/619c66a4-962e-4300-87fd-622e815c8c70)
 
