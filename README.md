@@ -1,3 +1,19 @@
+# Result (coming soon)
+## Login Page
+![image](https://github.com/user-attachments/assets/619c66a4-962e-4300-87fd-622e815c8c70)
+
+## Dashboard 
+![image](https://github.com/user-attachments/assets/9bea2069-03e3-4a81-840e-0e5ec0975c37)
+
+## Students
+![image](https://github.com/user-attachments/assets/36761aab-4258-43ab-bf22-007bdb141e56)
+
+## Attendence 
+![image](https://github.com/user-attachments/assets/e52306c3-2ae0-4d08-a13c-338f981a58cc)
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
